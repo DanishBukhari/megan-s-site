@@ -9,20 +9,20 @@
   background-color: darkslategray;
   width: 100%;
   max-width:100vw;
-  height: 90vh;
+  height: 80vh;
 }
 .img {
   width: 100%;
   max-width: 300px;
   height: auto;
   border-radius: 50%;
-  padding: 0px;
+  padding: 20px;
 }
 
 .header-content {
   color: white;
   padding: 10px;
-  font-size: 1.5vw;
+  font-size: 2vw;
 }
 
 p {
@@ -36,6 +36,7 @@ button {
   border: none;
   cursor: pointer;
   margin: 10px 0px;
+  width: 10vw;
 }
 button:hover {
   background-color: cornsilk;

@@ -49,14 +49,14 @@ h3 {
 ul {
   display: flex;
   justify-content: flex-end;
-  padding: 10px 20px;
+
   list-style: none;
   font-weight: bold;
   background-color: darkslategray;
   color: white;
 }
 ul li {
-  padding: 10px 20px;
+  padding: 10px 12px;
 }
 li a {
   color: white;
@@ -65,6 +65,7 @@ li a {
 a:hover {
   color: rgb(107, 192, 226);
 }
+
 #title {
   text-align: center;
   margin: 10px;
